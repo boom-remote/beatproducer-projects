@@ -5,13 +5,10 @@
   {
    "name": "bpnet_another-day-in-paradise_095bpm_4bars.wav",
    "sample": "beatproducer-drum-loops-pack-1/bpnet_another-day-in-paradise_095bpm_4bars.wav",
-   "slices": [],
-   "patterns": []
-  },
-  {
-   "name": "bpnet_another-day-in-paradise_095bpm_4bars.wav",
-   "sample": "beatproducer-drum-loops-pack-1/bpnet_another-day-in-paradise_095bpm_4bars.wav",
-   "slices": [],
+   "slices": [
+    2.0018710691823896,
+    9.113279724468404
+   ],
    "patterns": []
   }
  ]
